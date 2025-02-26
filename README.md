@@ -1,9 +1,17 @@
+<div align="center">
+
 ## Hi 👋, I'm Yousaf Jan  
-**Computer Science Student @ Ontario Tech University**
+### **Computer Science Student @ Ontario Tech University**    
+
+</div>
+
+---
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousafajan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yousaf-ajan.github.io/yousaf-portfolio/)
+
+---
 
 ### 💻 Tech Stack:
 #### Languages/Frameworks:
